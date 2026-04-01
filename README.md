@@ -1,9 +1,10 @@
 # Protocol Replay Lab
 参考
-1.The Annotated Diffusion Model
+
+1. The Annotated Diffusion Model
 https://huggingface.co/blog/annotated-diffusion
 
-2.DiffusionFuzz: Fuzzing Framework of Industrial Control Protocols Based on Denoising Diffusion Probabilistic Mode
+2. DiffusionFuzz: Fuzzing Framework of Industrial Control Protocols Based on Denoising Diffusion Probabilistic Mode
 https://ieeexplore.ieee.org/document/10529254
 
 一个面向 [`extracted/ddpmmodbusx02.py`](extracted/ddpmmodbusx02.py)、[`extracted/ddpmmodbusx03.py`](extracted/ddpmmodbusx03.py) 与 [`extracted/DDPMsnap7.py`](extracted/DDPMsnap7.py) 的重构项目。
